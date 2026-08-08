@@ -1,0 +1,64 @@
+Test Case 1
+
+Input:
+Choice = 1
+Book ID = B101
+Title = Python Basics
+Author = John
+
+Expected Output:
+Book added successfully!
+
+-------------------------------------
+
+Test Case 2
+
+Input:
+Choice = 2
+
+Expected Output:
+Displays all available books.
+
+-------------------------------------
+
+Test Case 3
+
+Input:
+Choice = 3
+Book ID = B101
+
+Expected Output:
+Book issued successfully!
+
+-------------------------------------
+
+Test Case 4
+
+Input:
+Choice = 4
+Book ID = B101
+
+Expected Output:
+Book returned successfully!
+
+-------------------------------------
+
+Test Case 5
+
+Input:
+Choice = 5
+Book ID = B101
+
+Expected Output:
+Book removed successfully!
+
+-------------------------------------
+
+Test Case 6
+
+Input:
+Choice = 3
+Book ID = B999
+
+Expected Output:
+Book not found.
